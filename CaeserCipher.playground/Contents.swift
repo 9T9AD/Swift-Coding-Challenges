@@ -1,5 +1,15 @@
 import UIKit
 
+/*
+To use the cipher, take every letter of your message and shift it three places to the right. 
+
+For example:
+The letter a becomes d.
+The letter b becomes e.
+The letter c becomes f.
+
+The word "hello" becomes "khoor".
+*/
 
 var alphabet: [Character] = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
 
